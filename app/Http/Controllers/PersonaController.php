@@ -20,6 +20,7 @@ class PersonaController extends Controller {
 	}
 */
 
+
 //Metodo GET
 public function index()
 	{
